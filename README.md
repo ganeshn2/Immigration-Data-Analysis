@@ -6,4 +6,4 @@ Via this work, I intend to analyse and classify the job categories of  perm appl
 
 Secondary objective of this work is to classify the data based on two predominant nationality (Indians and Chinese) and all others as Rest of the World (ROW). 
 
-Tertiary objective is to analyse which of the immigrants are financially more secure compared to the rest. 
+Tertiary objective is to analyse the immigrants are financially more secure compared to the rest. 
