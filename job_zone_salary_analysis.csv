@@ -1,0 +1,6 @@
+,Country,JobZone_Mean,JobZone_Median,Salary_Mean,Salary_STDEV,Salary_Median
+0,India,4.05,4.0,110616.35,30009.59,107363.5
+1,China,3.96,4.0,105431.17,40600.95,112467.8
+2,India and China,4.03,4.0,109852.26,31845.43,108000.0
+3,ROW Minus India,3.71,4.0,90335.04,51417.93,87069.0
+4,"ROW Minus India, China",3.65,4.0,86281.56,53230.7,80000.0
