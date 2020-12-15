@@ -1,6 +1,6 @@
 # Employment-based Immigration Data Analysis
 
-The purpose of this work is to analyse the perm data publically available for the year 2017 from the Department of Labor website: https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/PERM_Disclosure_Data_FY17.xlsx
+The purpose of this work is to analyse the  publically available perm data for the year 2017 from the Department of Labor website: https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/PERM_Disclosure_Data_FY17.xlsx
 
 The primary intention of this work is to analyse and classify the job categories of perm applications submitted to the DOL. 
 
