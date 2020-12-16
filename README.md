@@ -4,7 +4,7 @@ The purpose of this work is to analyse the  publically available perm data for t
 
 The primary intention of this work is to analyse and classify the job categories of perm applications submitted to the DOL. 
 
-Secondary objective of this work is to classify the data based on two predominant nationality (Indians and Chinese) who typically employment-based green cards, and citizens of all other nationalities as Rest of the World (ROW). 
+Secondary objective of this work is to classify the data based on two predominant nationality (Indians and Chinese) who apply for employment-based green cards, and citizens of all other nationalities as Rest of the World (ROW). 
 
 Tertiary objective is to analyse the pay comparison of those immigrants based on the nationality classification listed above. 
 
