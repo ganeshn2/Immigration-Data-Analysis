@@ -8,4 +8,4 @@ Secondary objective of this work is to classify the data based on two predominan
 
 Tertiary objective is to analyse the pay comparison of those immigrants based on the nationality classification listed above. 
 
-Finally, using ANOVA, We aim to show if there is any/no differences among the classification listed above. This work is currently under progress. Once ANOVA analysis is done, the notebook and additional summary ( CSV) will be added to the repository. 
+Finally, using ANOVA, we aim to show if there is any/no differences among the classification listed above. This work is currently under progress. Once ANOVA analysis is completed, the notebook and additional summary ( CSV) will be added to the repository. 
